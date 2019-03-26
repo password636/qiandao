@@ -1,0 +1,9 @@
+button {
+    padding-left:1em;
+    padding-right: 1em;
+    height:30px;
+    width: 100px;
+    text-align:center;
+    font-size: 15px;
+    vertical-align: bottom;
+}

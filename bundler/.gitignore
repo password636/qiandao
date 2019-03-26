@@ -1,0 +1,8 @@
+/bin/statik
+/src/statik
+/build
+/pkg
+/Spirent-ApiBrowser.app
+/osx
+app-template.dmg
+build.go
